@@ -9,7 +9,7 @@ public class Faculty extends Person{
 	}
 	
 	public Faculty(String initialName, int initialFacultyNumber){
-		super(initialName);        
+		super(initialName);
 		facultyNumber = initialFacultyNumber;    
 	}
 	
